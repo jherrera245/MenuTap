@@ -4,6 +4,25 @@
     <string name="tab_text_2">Qué Estudio</string>
     <string name="tab_text_3">Tecnologías</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--Mi infomacion-->
+    <string name="text_view_my_data">Acerca de Mi</string>
+    <string name="text_view_nombres">Nombres: Josué Isaí</string>
+    <string name="text_view_apellidos">Apellidos: Herrera Benítez</string>
+    <string name="text_view_carnet">Carnet: U20190846</string>
+    <string name="text_view_telefono">Teléfono: 7728-8054</string>
+    <string name="button_escribeme">Escríbeme</string>
+
+    <!--Que estudio -->
+    <string name="text_view_mis_estudios">Mis Estudios</string>
+    <string name="text_view_carrera">Carrera: Ingeniería en Desarrollo de Software.</string>
+    <string name="text_view_ciclos">Ciclo cursados: 9</string>
+    <string name="text_view_materias_aprobadas">Materias Aprobadas: 40</string>
+    <string name="button_abir_navegador">Mi Universidad</string>
+
+    <!--tecnologias -->
+    <string name="text_view_tecnologias">Tecnologías</string>
+    <string name="text_view_lenguajes">Lenguajes: Java, Javascript, Python, PHP, C#</string>
+    <string name="text_view_framework">Frameworks: Laravel, Yii, Bootstrap</string>
+    <string name="text_view_nube">Servicios en la nube: Azure</string>
+    <string name="button_servicios">Me interesa tus servicios</string>
 </resources>

@@ -4,12 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/drawable-v24/ic_tab_book.xml" value="0.121" />
+        <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/drawable/button_send_info.xml" value="0.2265" />
         <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/drawable/ic_tab_book.xml" value="0.2265" />
+        <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/drawable/quien_soy_theme.xml" value="0.2265" />
         <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/drawable/theme_tab_menu.xml" value="0.2265" />
         <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/layout/activity_main.xml" value="0.6" />
-        <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/layout/fragment_que_estudio.xml" value="0.25" />
-        <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/layout/fragment_quien_soy.xml" value="0.2359375" />
-        <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/layout/fragment_tecnologias.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/layout/fragment_que_estudio.xml" value="0.264" />
+        <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/layout/fragment_quien_soy.xml" value="0.264" />
+        <entry key="..\:/Users/flore/AndroidStudioProjects/MenuTap/app/src/main/res/layout/fragment_tecnologias.xml" value="0.264" />
       </map>
     </option>
   </component>
