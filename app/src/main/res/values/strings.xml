@@ -24,5 +24,5 @@
     <string name="text_view_lenguajes">Lenguajes: Java, Javascript, Python, PHP, C#</string>
     <string name="text_view_framework">Frameworks: Laravel, Yii, Bootstrap</string>
     <string name="text_view_nube">Servicios en la nube: Azure</string>
-    <string name="button_servicios">Me interesa tus servicios</string>
+    <string name="button_servicios">Contáctame</string>
 </resources>
